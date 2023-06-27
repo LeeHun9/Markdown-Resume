@@ -1,62 +1,66 @@
  <center>
-     <h1>XXX</h1>
+     <h1>个人简历</h1>
      <div>
          <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             <b>姓名：</b> 洪 玄 泉  
          </span>
-         ·
+         ·     
          <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             <b>电话：</b> 15665162218
          </span>
-         ·
+         ·     
          <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
+             <b>求职意向：</b> 网络安全
          </span>
-         ·
+         <br>
          <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
+             <b>学历：</b>硕士研究生
+         </span>
+         ·     
+         <span>
+             <b>邮箱：</b>1242472741@qq.com
+         </span>
+         ·     
+         <span>
+             <b>GPA：</b> 3.45/4
          </span>
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育背景
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
-
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
-
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
-
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
-
-   负责 XXX
-
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
-
-- **XXXX 项目**
-
-  *使用到的技术*
-
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+- 2017.9~2021.6：中国矿业大学，计算机科学与技术学院，信息安全（学士）
+- 2021.9~2024.6：四川大学，网络空间安全学院，网络空间安全（硕士）
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+- 模糊测试：熟悉 Fuzz 技术，熟悉AFL、libfuzzer等模糊器，能够针对特定测试的目标来对fuzzer进行调整。熟悉linux下主流漏洞原理和利用；
+- 开发语言： 熟悉C\C++、python等语言，x86架构下汇编，掌握windows和linux系统下的C开发；
+- 计算机基础：熟悉计算机网络、操作系统、数据结构等知识；
+
+## <img src="assets/briefcase-solid.svg" width="30px"> 兼职经历
+
+### **2022.5~至今					安般科技**
+
+职责：协助协议模糊测试等课题研究，提供AFL相关工具知识顾问，完成fuzz工具的部分开发和对接测试；
+
+主要职责：负责课题调研并确认基本技术路线，开源工具改造，后期对接并交付。
+
+## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+
+### 2023.03~至今				基于状态转移的协议模糊测试工具优化
+
+- 项目描述：灰盒协议测试模糊测试主要被用于对开源服务器的实现进行测试，本项目就AFLNET的状态引导的不足，设计了新的状态机实现方法，在代码覆盖率、crash数量上有一定的提升。
+
+- 主要职责：利用状态转移来引导协议模糊测试的状态选择、种子保留以及能量调度。
+
+### 2022.04~2022.10			基于文法变异的灰盒协议模糊测试
+
+- 项目描述：现有的灰盒协议模糊测试变异算法无法满足特定文法的协议需求，项目针对该问题增加了可以描述协议格式的变异算法，生成种子的质量方面有比较大的提高，能更好提升覆盖率。
+- 主要职责：前期针对结构化变异算法调研，协助开发，编写协议描述，后期测试。
+
+### 其他
+
+- 论文《AFLNeTrans：基于状态转移引导的灰盒协议模糊测试研究》，在投；
+- github: [LeeHun9 (leehung) (github.com)](https://github.com/LeeHun9)
