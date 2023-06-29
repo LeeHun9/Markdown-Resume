@@ -35,15 +35,15 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- 模糊测试：熟悉 Fuzz 技术，熟悉AFL、libfuzzer等模糊器，能够针对特定测试的目标来对fuzzer进行调整。熟悉linux下主流漏洞原理和利用；
-- 开发语言： 熟悉C\C++、python等语言，x86架构下汇编，掌握windows和linux系统下的C开发；
+- 安全研究：熟悉 Fuzz 技术，熟悉 AFL、libfuzzer 等主流模糊器，能够针对特定测试的目标来对fuzzer进行调整。熟悉linux下主流漏洞原理和利用；
+- 开发语言： 熟悉C\C++、python等语言，熟悉x86架构下汇编，掌握windows和linux系统下的C/C++开发；
 - 计算机基础：熟悉计算机网络、操作系统、数据结构等知识；
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 兼职经历
 
 ### **2022.5~至今					安般科技**
 
-职责：协助协议模糊测试等课题研究，提供AFL相关工具知识顾问，完成fuzz工具的部分开发和对接测试；
+职责：协助协议模糊测试等课题研究，帮助调研，提供AFL等模糊器相关工具技术支持，完成fuzz工具的部分开发和对接测试；
 
 主要职责：负责课题调研并确认基本技术路线，开源工具改造，后期对接并交付。
 
@@ -64,3 +64,6 @@
 
 - 论文《AFLNeTrans：基于状态转移引导的灰盒协议模糊测试研究》，在投；
 - github: [LeeHun9 (leehung) (github.com)](https://github.com/LeeHun9)
+- 个人项目：
+  - windows平台下的小工具开发：PE解析器，加密壳，进程监控等；
+  - Linux平台下C++高并发WebServer
