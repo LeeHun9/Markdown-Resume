@@ -1,32 +1,31 @@
- <center>
-     <h1>个人简历</h1>
+<center>
+     <h1>个 人 简 历</h1>
      <div>
          <span>
-             <b>姓名：</b> 洪 玄 泉  
+             <b>姓  名：</b> 洪 玄 泉  
          </span>
-         ·     
+         ·           
          <span>
-             <b>电话：</b> 15665162218
+             <b>电  话：</b> 15665162218
          </span>
-         ·     
+         ·      
          <span>
              <b>求职意向：</b> 网络安全
          </span>
          <br>
          <span>
-             <b>学历：</b>硕士研究生
+             <b>学  历：</b>硕士研究生
          </span>
          ·     
          <span>
-             <b>邮箱：</b>1242472741@qq.com
+             <b>邮  箱：</b>1242472741@qq.com
          </span>
-         ·     
+         ·       
          <span>
              <b>GPA：</b> 3.45/4
          </span>
      </div>
  </center>
-
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育背景
 
