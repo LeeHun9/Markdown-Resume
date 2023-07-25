@@ -80,9 +80,3 @@
 - 个人开发项目：
   - windows平台下的小工具：PE解析器，加密壳，进程监控等；
   - Linux平台下C++高并发WebServer；
-
-## <img src="assets/project-diagram-solid.svg" width="30px">个人奖项
-
-- 2018年：校级二等奖学金
-- 2019年：校级专项奖学金
-- 2021年：研究生三等奖学金
